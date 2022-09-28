@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/torchlight-helper/static/css/main.9704bf5f.css",
-    "main.js": "/torchlight-helper/static/js/main.8021d21e.js",
+    "main.css": "/torchlight-helper/static/css/main.f13acb7e.css",
+    "main.js": "/torchlight-helper/static/js/main.30e9492a.js",
     "static/js/787.fc0ad487.chunk.js": "/torchlight-helper/static/js/787.fc0ad487.chunk.js",
     "static/media/Exo2-ExtraBold.svg": "/torchlight-helper/static/media/Exo2-ExtraBold.c286db53838a9fdf0563.svg",
     "static/media/Exo2-ExtraBold.eot": "/torchlight-helper/static/media/Exo2-ExtraBold.bb6f0b405638853254d5.eot",
@@ -9,12 +9,12 @@
     "static/media/Exo2-ExtraBold.woff": "/torchlight-helper/static/media/Exo2-ExtraBold.2dc93bef1b64a26bf23c.woff",
     "static/media/Exo2-ExtraBold.woff2": "/torchlight-helper/static/media/Exo2-ExtraBold.4268c2e1fa187838fe40.woff2",
     "index.html": "/torchlight-helper/index.html",
-    "main.9704bf5f.css.map": "/torchlight-helper/static/css/main.9704bf5f.css.map",
-    "main.8021d21e.js.map": "/torchlight-helper/static/js/main.8021d21e.js.map",
+    "main.f13acb7e.css.map": "/torchlight-helper/static/css/main.f13acb7e.css.map",
+    "main.30e9492a.js.map": "/torchlight-helper/static/js/main.30e9492a.js.map",
     "787.fc0ad487.chunk.js.map": "/torchlight-helper/static/js/787.fc0ad487.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9704bf5f.css",
-    "static/js/main.8021d21e.js"
+    "static/css/main.f13acb7e.css",
+    "static/js/main.30e9492a.js"
   ]
 }
