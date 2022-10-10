@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/torchlight-helper/static/css/main.71f8229f.css",
-    "main.js": "/torchlight-helper/static/js/main.ede5b82f.js",
-    "static/js/565.8bd3d8bf.chunk.js": "/torchlight-helper/static/js/565.8bd3d8bf.chunk.js",
-    "static/js/646.8319659e.chunk.js": "/torchlight-helper/static/js/646.8319659e.chunk.js",
-    "static/js/761.e0eccd14.chunk.js": "/torchlight-helper/static/js/761.e0eccd14.chunk.js",
-    "static/js/392.9aa5d3f6.chunk.js": "/torchlight-helper/static/js/392.9aa5d3f6.chunk.js",
-    "static/js/365.d1c74c70.chunk.js": "/torchlight-helper/static/js/365.d1c74c70.chunk.js",
-    "static/js/578.3b9697eb.chunk.js": "/torchlight-helper/static/js/578.3b9697eb.chunk.js",
-    "static/js/784.93932551.chunk.js": "/torchlight-helper/static/js/784.93932551.chunk.js",
-    "static/js/851.69e6462b.chunk.js": "/torchlight-helper/static/js/851.69e6462b.chunk.js",
-    "static/js/787.fc0ad487.chunk.js": "/torchlight-helper/static/js/787.fc0ad487.chunk.js",
-    "static/media/background1080.png": "/torchlight-helper/static/media/background1080.3f608573e75041cf7038.png",
-    "static/media/Exo2-ExtraBold.svg": "/torchlight-helper/static/media/Exo2-ExtraBold.7c8d379f0f3c709225c7.svg",
-    "static/media/Exo2-ExtraBold.eot": "/torchlight-helper/static/media/Exo2-ExtraBold.bb6f0b405638853254d5.eot",
-    "static/media/Exo2-ExtraBold.ttf": "/torchlight-helper/static/media/Exo2-ExtraBold.89eb9838528a7956b294.ttf",
-    "static/media/Exo2-ExtraBold.woff": "/torchlight-helper/static/media/Exo2-ExtraBold.2dc93bef1b64a26bf23c.woff",
-    "static/media/Exo2-ExtraBold.woff2": "/torchlight-helper/static/media/Exo2-ExtraBold.4268c2e1fa187838fe40.woff2",
-    "index.html": "/torchlight-helper/index.html",
-    "main.71f8229f.css.map": "/torchlight-helper/static/css/main.71f8229f.css.map",
-    "main.ede5b82f.js.map": "/torchlight-helper/static/js/main.ede5b82f.js.map",
-    "787.fc0ad487.chunk.js.map": "/torchlight-helper/static/js/787.fc0ad487.chunk.js.map"
+    "main.css": "/static/css/main.6f18c4fd.css",
+    "main.js": "/static/js/main.57df7b67.js",
+    "static/js/565.8bd3d8bf.chunk.js": "/static/js/565.8bd3d8bf.chunk.js",
+    "static/js/646.8319659e.chunk.js": "/static/js/646.8319659e.chunk.js",
+    "static/js/761.e0eccd14.chunk.js": "/static/js/761.e0eccd14.chunk.js",
+    "static/js/392.9aa5d3f6.chunk.js": "/static/js/392.9aa5d3f6.chunk.js",
+    "static/js/365.d1c74c70.chunk.js": "/static/js/365.d1c74c70.chunk.js",
+    "static/js/578.3b9697eb.chunk.js": "/static/js/578.3b9697eb.chunk.js",
+    "static/js/784.93932551.chunk.js": "/static/js/784.93932551.chunk.js",
+    "static/js/851.69e6462b.chunk.js": "/static/js/851.69e6462b.chunk.js",
+    "static/js/787.fc0ad487.chunk.js": "/static/js/787.fc0ad487.chunk.js",
+    "static/media/background1080.png": "/static/media/background1080.3f608573e75041cf7038.png",
+    "static/media/Exo2-ExtraBold.svg": "/static/media/Exo2-ExtraBold.c286db53838a9fdf0563.svg",
+    "static/media/Exo2-ExtraBold.eot": "/static/media/Exo2-ExtraBold.bb6f0b405638853254d5.eot",
+    "static/media/Exo2-ExtraBold.ttf": "/static/media/Exo2-ExtraBold.89eb9838528a7956b294.ttf",
+    "static/media/Exo2-ExtraBold.woff": "/static/media/Exo2-ExtraBold.2dc93bef1b64a26bf23c.woff",
+    "static/media/Exo2-ExtraBold.woff2": "/static/media/Exo2-ExtraBold.4268c2e1fa187838fe40.woff2",
+    "index.html": "/index.html",
+    "main.6f18c4fd.css.map": "/static/css/main.6f18c4fd.css.map",
+    "main.57df7b67.js.map": "/static/js/main.57df7b67.js.map",
+    "787.fc0ad487.chunk.js.map": "/static/js/787.fc0ad487.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71f8229f.css",
-    "static/js/main.ede5b82f.js"
+    "static/css/main.6f18c4fd.css",
+    "static/js/main.57df7b67.js"
   ]
 }
