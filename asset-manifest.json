@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "https://th3conc3pt3ur.github.io/torchlight-helper/static/css/main.4b865ab8.css",
-    "main.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/main.5de5c0d7.js",
-    "static/js/646.8319659e.chunk.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/646.8319659e.chunk.js",
-    "static/js/761.e0eccd14.chunk.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/761.e0eccd14.chunk.js",
-    "static/js/392.9aa5d3f6.chunk.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/392.9aa5d3f6.chunk.js",
-    "static/js/365.d1c74c70.chunk.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/365.d1c74c70.chunk.js",
-    "static/js/578.3b9697eb.chunk.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/578.3b9697eb.chunk.js",
-    "static/js/784.93932551.chunk.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/784.93932551.chunk.js",
-    "static/js/851.69e6462b.chunk.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/851.69e6462b.chunk.js",
-    "static/js/787.fc0ad487.chunk.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/787.fc0ad487.chunk.js",
-    "static/media/Exo2-ExtraBold.svg": "https://th3conc3pt3ur.github.io/torchlight-helper/static/media/Exo2-ExtraBold.7c8d379f0f3c709225c7.svg",
-    "static/media/background1080.png": "https://th3conc3pt3ur.github.io/torchlight-helper/static/media/background1080.3ef121c18208d49258e8.png",
-    "static/media/Exo2-ExtraBold.eot": "https://th3conc3pt3ur.github.io/torchlight-helper/static/media/Exo2-ExtraBold.bb6f0b405638853254d5.eot",
-    "static/media/Exo2-ExtraBold.ttf": "https://th3conc3pt3ur.github.io/torchlight-helper/static/media/Exo2-ExtraBold.89eb9838528a7956b294.ttf",
-    "static/media/Exo2-ExtraBold.woff": "https://th3conc3pt3ur.github.io/torchlight-helper/static/media/Exo2-ExtraBold.2dc93bef1b64a26bf23c.woff",
-    "static/media/Exo2-ExtraBold.woff2": "https://th3conc3pt3ur.github.io/torchlight-helper/static/media/Exo2-ExtraBold.4268c2e1fa187838fe40.woff2",
-    "index.html": "https://th3conc3pt3ur.github.io/torchlight-helper/index.html",
-    "main.4b865ab8.css.map": "https://th3conc3pt3ur.github.io/torchlight-helper/static/css/main.4b865ab8.css.map",
-    "main.5de5c0d7.js.map": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/main.5de5c0d7.js.map",
-    "787.fc0ad487.chunk.js.map": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/787.fc0ad487.chunk.js.map"
+    "main.css": "http://localhost:3000/static/css/main.b6e97f92.css",
+    "main.js": "http://localhost:3000/static/js/main.3d7424af.js",
+    "static/js/646.09977f84.chunk.js": "http://localhost:3000/static/js/646.09977f84.chunk.js",
+    "static/js/761.31bb2598.chunk.js": "http://localhost:3000/static/js/761.31bb2598.chunk.js",
+    "static/js/392.8cad8a52.chunk.js": "http://localhost:3000/static/js/392.8cad8a52.chunk.js",
+    "static/js/365.d1c74c70.chunk.js": "http://localhost:3000/static/js/365.d1c74c70.chunk.js",
+    "static/js/578.b238cec8.chunk.js": "http://localhost:3000/static/js/578.b238cec8.chunk.js",
+    "static/js/784.0f7a7dc9.chunk.js": "http://localhost:3000/static/js/784.0f7a7dc9.chunk.js",
+    "static/js/851.6a688b8c.chunk.js": "http://localhost:3000/static/js/851.6a688b8c.chunk.js",
+    "static/js/787.fc0ad487.chunk.js": "http://localhost:3000/static/js/787.fc0ad487.chunk.js",
+    "static/media/Exo2-ExtraBold.svg": "http://localhost:3000/static/media/Exo2-ExtraBold.7c8d379f0f3c709225c7.svg",
+    "static/media/background1080.png": "http://localhost:3000/static/media/background1080.3ef121c18208d49258e8.png",
+    "static/media/Exo2-ExtraBold.eot": "http://localhost:3000/static/media/Exo2-ExtraBold.bb6f0b405638853254d5.eot",
+    "static/media/Exo2-ExtraBold.ttf": "http://localhost:3000/static/media/Exo2-ExtraBold.89eb9838528a7956b294.ttf",
+    "static/media/Exo2-ExtraBold.woff": "http://localhost:3000/static/media/Exo2-ExtraBold.2dc93bef1b64a26bf23c.woff",
+    "static/media/Exo2-ExtraBold.woff2": "http://localhost:3000/static/media/Exo2-ExtraBold.4268c2e1fa187838fe40.woff2",
+    "index.html": "http://localhost:3000/index.html",
+    "main.b6e97f92.css.map": "http://localhost:3000/static/css/main.b6e97f92.css.map",
+    "main.3d7424af.js.map": "http://localhost:3000/static/js/main.3d7424af.js.map",
+    "787.fc0ad487.chunk.js.map": "http://localhost:3000/static/js/787.fc0ad487.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b865ab8.css",
-    "static/js/main.5de5c0d7.js"
+    "static/css/main.b6e97f92.css",
+    "static/js/main.3d7424af.js"
   ]
 }
