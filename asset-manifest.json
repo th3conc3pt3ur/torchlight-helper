@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "https://th3conc3pt3ur.github.io/torchlight-helper/static/css/main.3c3b3982.css",
-    "main.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/main.f41719a4.js",
+    "main.css": "https://th3conc3pt3ur.github.io/torchlight-helper/static/css/main.69bd7c57.css",
+    "main.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/main.5006b74b.js",
     "static/js/646.24baafd6.chunk.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/646.24baafd6.chunk.js",
     "static/js/365.80de723c.chunk.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/365.80de723c.chunk.js",
     "static/js/578.498ac912.chunk.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/578.498ac912.chunk.js",
     "static/js/784.9429ff6c.chunk.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/784.9429ff6c.chunk.js",
     "static/js/851.ce721983.chunk.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/851.ce721983.chunk.js",
     "static/js/787.fc0ad487.chunk.js": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/787.fc0ad487.chunk.js",
-    "static/media/Exo2-ExtraBold.svg": "https://th3conc3pt3ur.github.io/torchlight-helper/static/media/Exo2-ExtraBold.7c8d379f0f3c709225c7.svg",
+    "static/media/Exo2-ExtraBold.svg": "https://th3conc3pt3ur.github.io/torchlight-helper/static/media/Exo2-ExtraBold.c286db53838a9fdf0563.svg",
     "static/media/background1080.png": "https://th3conc3pt3ur.github.io/torchlight-helper/static/media/background1080.3ef121c18208d49258e8.png",
     "static/media/Exo2-ExtraBold.eot": "https://th3conc3pt3ur.github.io/torchlight-helper/static/media/Exo2-ExtraBold.bb6f0b405638853254d5.eot",
     "static/media/Exo2-ExtraBold.ttf": "https://th3conc3pt3ur.github.io/torchlight-helper/static/media/Exo2-ExtraBold.89eb9838528a7956b294.ttf",
     "static/media/Exo2-ExtraBold.woff": "https://th3conc3pt3ur.github.io/torchlight-helper/static/media/Exo2-ExtraBold.2dc93bef1b64a26bf23c.woff",
     "static/media/Exo2-ExtraBold.woff2": "https://th3conc3pt3ur.github.io/torchlight-helper/static/media/Exo2-ExtraBold.4268c2e1fa187838fe40.woff2",
     "index.html": "https://th3conc3pt3ur.github.io/torchlight-helper/index.html",
-    "main.3c3b3982.css.map": "https://th3conc3pt3ur.github.io/torchlight-helper/static/css/main.3c3b3982.css.map",
-    "main.f41719a4.js.map": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/main.f41719a4.js.map",
+    "main.69bd7c57.css.map": "https://th3conc3pt3ur.github.io/torchlight-helper/static/css/main.69bd7c57.css.map",
+    "main.5006b74b.js.map": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/main.5006b74b.js.map",
     "787.fc0ad487.chunk.js.map": "https://th3conc3pt3ur.github.io/torchlight-helper/static/js/787.fc0ad487.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c3b3982.css",
-    "static/js/main.f41719a4.js"
+    "static/css/main.69bd7c57.css",
+    "static/js/main.5006b74b.js"
   ]
 }
